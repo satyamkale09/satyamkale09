@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey there, I'm Satyam, nice to meet you! 👋🏻
 
-<!--
-**satyamkale09/satyamkale09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing a Degree in Information Technology Engineering!
+- 💬 Learning Fullstack Development from **Apna College**
+- 💼 I'm currently practicing **Data Structures & Algorithms** through **Leetcode**, as well as doing the ocassional personal projects
 
-Here are some ideas to get you started:
+## You can reach me here 🌎
+🏡 <a href="https://github.com/satyamkale09" target="_blank">Github</a> **| or |** 👔 <a href="https://linkedin.com/in/satyamkale" target="_blank">Linkedin</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect With Me <a href="mailto:satyamkale22@gmail.com" target="_blank">💌 Email Me</a>
+
+## Tech Stack
+
+* 💻 Java | HTML | CSS | Javascript | React | 
+* 🛢️ MongoDB | mySQL | SQL Lite 
