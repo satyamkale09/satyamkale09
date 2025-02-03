@@ -1,8 +1,8 @@
 ### Hey there, I'm Satyam, nice to meet you! 👋🏻
 
-- 🔭 I’m currently pursuing a Degree in Information Technology Engineering!
+- 🔭 I’m currently pursuing a Engineering Degree in Information Technology !
 - 💬 Learning Fullstack Development from **Apna College**
-- 💼 I'm currently practicing **Data Structures & Algorithms** through **Leetcode**, as well as doing the ocassional personal projects
+- 💼 I'm currently practicing **Data Structures & Algorithms in JAVA** through **Leetcode**, as well as doing the ocassional personal projects
 
 ## You can reach me here 🌎
 🏡 <a href="https://github.com/satyamkale09" target="_blank">Github</a> **| or |** 👔 <a href="https://linkedin.com/in/satyamkale" target="_blank">Linkedin</a>
