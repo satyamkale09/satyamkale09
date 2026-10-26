@@ -28,26 +28,22 @@ I believe great developers never stop learning, stay curious, and enjoy solving 
 
 ## 💻 Tech Stack
 
-**Languages**
-
+**Languages:**
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
 
-**Frontend & Backend**
-
+**Frontend & Backend:**
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=plastic&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 
-**Databases**
-
+**Databases:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**Data Analytics**
-
+**Data Analytics:**
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=plastic&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
@@ -55,8 +51,7 @@ I believe great developers never stop learning, stay curious, and enjoy solving 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-**Tools & Platforms**
-
+**Tools & Platforms:**
 [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
@@ -65,7 +60,6 @@ I believe great developers never stop learning, stay curious, and enjoy solving 
 ---
 
 ## 🌱 A Little More About Me
-
 - 🧠 Practicing DSA and improving my problem-solving skills with Java.
 - 🛠️ Learning by building practical, hands-on projects.
 - 🔍 Curious about software development, databases, and data-driven solutions.
